@@ -5,7 +5,6 @@ __pycache__/
 .idea/
 logs/celery.log
 celerybeat-schedule
-.vscode/
 setup.cfg
 .env
 **/migrations/**
@@ -16,3 +15,7 @@ celerybeat.pid
 app/logs/debug.log
 app/logs/celery.log
 .env
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
